@@ -1,4 +1,4 @@
-# Team-1
+# Developed by
 
 - Adil Alizmhanov
 - Danae Morrison
